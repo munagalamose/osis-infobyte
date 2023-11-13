@@ -1,0 +1,20 @@
+body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 50px;
+    }
+
+    input, select, button {
+        margin: 10px;
+        padding: 5px;
+        font-size: 16px;
+        color: black;
+    }
+
+    #result {
+        margin-top: 20px;
+        font-size: 18px; }
+
+        .temp-con h1{
+                text-align: center;
+        }

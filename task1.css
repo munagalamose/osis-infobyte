@@ -1,0 +1,77 @@
+.box-content{
+        text-align: center;
+        color: red;
+}
+.carousel-inner{
+    padding: auto; }
+.carousel-item{
+        margin-right: 100px;
+}
+.carousel {
+        padding: auto;
+}
+box-container{
+        color: red;
+}
+.bg-1 h1{
+        text-align: center;
+        color: blue;
+}
+.back-ground{
+        text-align: center;
+}
+.bg-1{
+        background-color: cyan; 
+        padding: 10px 30px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+        
+        }
+        .bg-1 h1{
+         color: red;
+         text-align: center;
+         font-size: 50px;
+        }
+.main-container {
+        text-align: center;
+        color: blue;
+}
+.card.group{
+        height: 50%;
+}
+footer{
+        background-color:  skyblue;
+        padding: 10px 10px 10px 10px ;
+        text-decoration: none;
+   }
+   footer h5{
+        color: red;
+        text-decoration: none;
+        margin-right: 100px;
+        
+        
+   
+   }
+   footer ul li a{
+        text-decoration: none;
+   color: black;}
+   .text-centre{
+        text-align: center;
+   }
+.about-insta{
+        text-align: center;
+        color: green;
+}
+
+.container h2{
+        text-align: center;
+        color: red;
+}
+
+
+
+
+
+
+
